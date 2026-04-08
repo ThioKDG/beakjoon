@@ -17,3 +17,7 @@ while True:
         print(result_str)
     except EOFError:
         break
+# total = map(int, sys.stdin.read().split(''))
+    
+
+
